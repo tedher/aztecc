@@ -1,0 +1,32 @@
+              AZTECC LICENSE AGREEMENT
+	      ========================
+      
+AZTECC with all of their support programs are copyrighted.
+You can use AZTECC  freely for individual  purposes and/or
+educational purposes. You can distribute AZTECC freely  as
+long as no money is charged except  for distribution cost.
+Institutional and  government agencies  cannot  use AZTECC
+freely, they  must contact the  author for special license
+agreement.
+
+If you  use and or derive  AZTECC and all of their support
+programs code in  your programs, you must  acknowledge the
+AZTECC  author and  you  must  also release  your software
+freely, with  source code, to educational and  individual.
+You may not make any profits from them.
+
+I, Tedi Heriyanto, shall  not  be  liable  for any damages
+arising out of the use and/or misuse of this  program. Nor
+shall I be liable for any lost of your data before, during
+or after the use of this program.
+
+This license agreement only valid  for programs  that  are
+written  by me, for  other  program/library  that  is  not
+written by me but is used in the making of these programs,
+you should see the corresponding  program/library  license
+agreement.
+
+
+Regards,
+Tedi Heriyanto <tedi-h@usa.net>
+February 17, 2000
