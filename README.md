@@ -4,12 +4,7 @@ AZTECC
 Introduction
 ------------
 
-This repository contains my bachelor thesis title "Implementing Encryption/Decryption Program using Elliptic Curve Cryptography" and the code of the thesis.
-
-* `src`: this directory contains the source code of the program
-* `win`: this directory contains the compiled code for Windows platform
-* `linux`: this directory contains the compiled code for Windows platform
- 
+This repository contains my bachelor thesis title "Implementing Encryption/Decryption Program using Elliptic Curve Cryptography" and the source code of the program generated from the thesis.
 
 Requirements
 ------------
